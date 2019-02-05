@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjYvJ2CxqPgAhVOVd8KHZM1A8wQjRx6BAgBEAU&url=https%3A%2F%2Fbrandmark.io%2Flogo-rank%2F&psig=AOvVaw0Kv_1YhjMbmYDi44j_-ZgB&ust=1549420154197734
+Replace this with an image, like your photo. Ensure you include some alt-text.https://camo.githubusercontent.com/5215e6fe0e2fc740eb8d91fe380287294fcacca5/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f79616b746f6361742e706e67
+4\. (https://octodex.github.com/images/yaktocat.png)
