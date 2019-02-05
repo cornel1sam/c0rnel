@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Replace this with an image, like your photo. Ensure you include some alt-text.https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjYvJ2CxqPgAhVOVd8KHZM1A8wQjRx6BAgBEAU&url=https%3A%2F%2Fbrandmark.io%2Flogo-rank%2F&psig=AOvVaw0Kv_1YhjMbmYDi44j_-ZgB&ust=1549420154197734
